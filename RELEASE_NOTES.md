@@ -1,3 +1,16 @@
+## Section 3: Improved Development Workflow and Debugging
+
+- Understanding NPM Scripts and Installing 3rd Party Packages
+- Using Nodemon for Autorestarts
+- Understanding different Error Types
+- Finding & Fixing Syntax Errors
+- Dealing with Runtime Errors
+- Logical Errors
+- Using the Debugger
+- Restarting the Debugger Automatically After Editing our App
+- Debugging Node.js in Visual Studio Code
+- Changing Variables in the Debug Console
+
 ## Section 2: Understanding the basics of Node
 
 - Creating a Node Server

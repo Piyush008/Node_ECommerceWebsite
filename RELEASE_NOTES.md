@@ -1,3 +1,19 @@
+## Section 4: Working with Express.js
+
+- What is Express.js?
+- Installing Express.js
+- How Middleware Works and adding a Middleware
+- Express.js - Looking Behind the Scenes
+- Handling Different Routes
+- Parsing Incoming Requests
+- Limiting Middleware Execution to POST Requests
+- Using Express Router
+- Adding a 404 Error Page
+- Filtering Paths
+- Creating & Serving HTML Pages
+- Styling our Pages
+- Serving Files Statically
+
 ## Section 3: Improved Development Workflow and Debugging
 
 - Understanding NPM Scripts and Installing 3rd Party Packages

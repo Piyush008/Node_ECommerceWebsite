@@ -1,3 +1,9 @@
+## Section 7: Working with Dynamic Content using EJS
+
+- Working with EJS
+- Converting HTML Files to EJS
+- Working with partials
+
 ## Section 6: Working with Dynamic Content using Handlebars
 
 - Working with Handlebars

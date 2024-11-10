@@ -10,12 +10,6 @@ router.get("/add-product", (req, res, next) => {
   res.render("add-product", {
     docTitle: "Add product",
     path: req.path,
-    activeProduct: true,
-    productCSS: true,
-    formsCSS: true,
-    /* Following code is used to stop using the default layout
-    layout: false,
-    */
   });
 });
 

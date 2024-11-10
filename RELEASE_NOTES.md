@@ -1,3 +1,10 @@
+## Section 5: Working with Dynamic Content using Pug
+
+- Installing & Implementing Pug
+- Outputting Dynamic Content
+- Converting HTML Files to Pug
+- Adding a Layout
+
 ## Section 4: Working with Express.js
 
 - What is Express.js?

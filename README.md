@@ -7,3 +7,4 @@
 - [Section 3](https://github.com/Piyush008/Node_ECommerceWebsite/tree/Section-3): Improved Development Workflow and Debugging
 - [Section 4](https://github.com/Piyush008/Node_ECommerceWebsite/tree/Section-4): Working with Express.js
 - [Section 5](https://github.com/Piyush008/Node_ECommerceWebsite/tree/Section-5): Working with Dynamic Content using Pug
+- [Section 6](https://github.com/Piyush008/Node_ECommerceWebsite/tree/Section-6): Working with Dynamic Content using Handlebars

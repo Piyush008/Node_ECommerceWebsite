@@ -1,3 +1,9 @@
+## Section 6: Working with Dynamic Content using Handlebars
+
+- Working with Handlebars
+- Converting HTML Files to Handlebars
+- Adding a Layout
+
 ## Section 5: Working with Dynamic Content using Pug
 
 - Installing & Implementing Pug

@@ -7,7 +7,16 @@ const router = express.Router();
 const products = [];
 
 router.get("/add-product", (req, res, next) => {
-  res.render("add-product", { docTitle: "Add product", path: req.path });
+  res.render("add-product", {
+    docTitle: "Add product",
+    path: req.path,
+    activeProduct: true,
+    productCSS: true,
+    formsCSS: true,
+    /* Following code is used to stop using the default layout
+    layout: false,
+    */
+  });
 });
 
 router.post("/add-product", (req, res, next) => {
